@@ -1,0 +1,14 @@
+.terraform
+.kube
+
+*.tfstate
+*.tfstate.backup
+*.plan
+
+# eclipse and vs project files
+/.project
+*.log
+*.sln
+*.pssproj
+*.pssproj.user
+.vs/
